@@ -1,0 +1,6 @@
+
+{
+  "name": "VivaPro",
+  "description": "An intelligent student evaluation and anti-cheat assessment platform that uses Gemini to grade and provide feedback.",
+  "requestFramePermissions": []
+}
